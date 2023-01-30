@@ -74,7 +74,7 @@ margin: 25px;
 .item:hover {
    
     box-shadow: 4px 4px 8px 4px rgba(4, 79, 136, 0.324);
-    transition: .5s ease;
+    transition: .25s ease;
 }
 
 header {
